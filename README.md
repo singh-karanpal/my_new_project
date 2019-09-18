@@ -15,6 +15,8 @@ def foo(x):
     x = x**x
     
     #new comment added
+    #comment 3
+    #weather is good today!!
     
     return x
 ```
