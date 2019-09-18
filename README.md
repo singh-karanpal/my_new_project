@@ -14,7 +14,6 @@ def foo(x):
     x = x**x
     
     return x
-  #TODO
 ```
 
 
