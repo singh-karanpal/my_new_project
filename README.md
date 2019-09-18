@@ -12,6 +12,7 @@ def foo(x):
   # Karan is adding his own comment 
   # we are creating new method which should generate a git merge conflict
   # added from webUI
+  #DSCI 521 class, git conflict
 
     x = x**x
     
