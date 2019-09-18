@@ -2,7 +2,7 @@
 
 This is my new project.
 
-author:
+author: Karanpal Singh
 
 Below is the main function of the project: 
 
