@@ -10,6 +10,7 @@ Below is the main function of the project:
 def foo(x):
     
   # Karan is adding his own comment 
+  # we are creating new method which should generate a git merge conflict
 
     x = x**x
     
