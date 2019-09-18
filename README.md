@@ -11,6 +11,7 @@ def foo(x):
     
   # Karan is adding his own comment 
   # we are creating new method which should generate a git merge conflict
+  # added from webUI
 
     x = x**x
     
