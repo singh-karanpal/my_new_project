@@ -8,6 +8,12 @@ Below is the main function of the project:
 
 ```python
 def foo(x):
+    
+  # Karan is adding his own comment 
+
+    x = x**x
+    
+    return x
   #TODO
 ```
 
